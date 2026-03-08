@@ -43,5 +43,5 @@ Aunque desarrolladas para física teórica, las técnicas de optimización numé
 
 ## Para entender los archivos
 
--El notebook optimizacion numerica (optimización-numérica-de-transición-de-fase) da los resultados de los parametros para lamnda de 0 a 1 y lo gualda en un archivo xlsx (resutados completos para lamda 01 a 1), el notebook de grafico de resultados le el xlsx y crea un grafico intercativo.
+-El notebook optimizacion numerica (PROYECTO FINAL) da los resultados de los parametros para lamnda de 0 a 1 y lo gualda en un archivo xlsx (resutados completos para lamda 01 a 1), el notebook de grafico de resultados le el xlsx y crea un grafico intercativo.
 -El Proyecto fue realizado por mi y mi compañero por lo que se uso google colab por ende, en el notebook de graficacion estan los comentarios para montar el drive de cada quien.
